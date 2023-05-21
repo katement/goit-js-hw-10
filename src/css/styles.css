@@ -18,3 +18,39 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.list-item {
+  display: flex;
+}
+.class-heading-1 {
+  padding-left: 10px;
+}
+.country-info {
+  display: block;
+}
+.card-container-1 {
+  display: flex;
+}
+.card-container-2 {
+  display: block;
+}
+
+.super-class {
+  display: flex;
+  font-weight: 700;
+  font-size: 36px;
+  color: blue;
+  margin: 0 auto;
+}
+.class-heading {
+  font-weight: 700;
+  font-size: 36px;
+  color: red;
+  padding-left: 10px;
+}
+
+.class1 {
+  font-weight: 400;
+  padding-left: 10px;
+  color: #212121;
+}
